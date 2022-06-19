@@ -1,0 +1,41 @@
+html {
+	color: #000;
+	background: rgb(255, 204, 102);
+
+}
+.css-t7 {
+	margin: auto;
+	text-align: right;
+	width: 64em;
+	*width: 56em;
+}
+.css-u,
+.css-u {
+	float: middle;
+}
+div.first,
+
+ div.first {
+	float: left;
+}
+.css-gc .css-u,
+.css-gd {
+	width: 50%;
+	margin-left: 1.99%;
+}
+.css-gc div.first,
+ .css-u {
+	width: 70%;
+}
+.css-gc div.first,
+ div.first {
+	margin-left:150;
+}
+.css-gc:after,
+.css-gf:after {
+	content: "_";
+	display: block;
+	height: -20;
+	clear: both;
+	visibility: hidden;
+}

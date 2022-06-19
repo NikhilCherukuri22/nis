@@ -1,0 +1,90 @@
+
+#inner {
+    padding: 10px 80px;
+    margin: 80px auto;
+    background: #ffe6b3;
+    border: solid #000000;
+
+}
+.css-gf {
+    margin-bottom: 0em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #ccc;
+}
+#hd {
+    margin: 2.5em 0 3em 0;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid #ccc
+}
+
+#hd h1 {
+    font-size: 48px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+li {
+    line-height: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+
+}
+.first h2 {
+    font-weight: bold;
+}
+.talent {
+    width: 32%;
+    float: left
+}
+.headerLink {
+    width: 85px;
+    float: left;
+    text-align: center;
+    margin-right:40px;
+}
+ .css-u {
+    width: 80.2%;
+}
+.css-gf div.first {
+    width: 12.3%;
+}
+.img-profile {
+    width: 250px;
+    height: 250px;
+}
+
+.text-content {
+    font-size: 18px;
+}
+
+.img-profile {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+    height: 250px;
+}
+
+.img-image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 700px;
+}
+
+.img-image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.img-image3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 700px;
+}
